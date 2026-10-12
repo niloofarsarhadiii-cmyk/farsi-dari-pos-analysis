@@ -38,5 +38,5 @@ Tools: Python, Stanza.
 
 ## Author
 Niloofar Sarhadi
-[Your email]# farsi-dari-pos-analysis
+[niloofar.sarhadiii@gmail.com]# farsi-dari-pos-analysis
 Evaluating a Farsi POS tagger on Dari text
