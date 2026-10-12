@@ -1,6 +1,6 @@
 # Farsi vs. Dari: Evaluating a Persian POS Tagger on Dari Text
 
-**Status:** In progress (started [month, year]). Results below are preliminary.
+**Status:** In progress 
 
 ## Question
 How well does a part-of-speech (POS) tagger trained on Farsi perform on Dari, and what kinds of errors does it make?
